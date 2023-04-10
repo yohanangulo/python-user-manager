@@ -1,0 +1,7 @@
+{'name': 'Tilly', 'lastname': 'Rivera', 'email': 'tilly@gamil.com', 'phoneNumber': '04129613339'}
+{'name': 'Luke', 'lastname': 'Downs', 'email': 'luke@gmail.com', 'phoneNumber': '12345454546'}
+{'name': 'Vanessa', 'lastname': 'Stevens', 'email': 'vanessa@gmail.com', 'phoneNumber': '12341434545'}
+{'name': 'Ann', 'lastname': 'Meza', 'email': 'ann@gmail.com', 'phoneNumber': '12345454454'}
+{'name': 'Joe', 'lastname': 'Rey', 'email': 'joe@gamil.com', 'phoneNumber': '12342345453'}
+{'name': 'Elias', 'lastname': 'Khan', 'email': 'elias@gmail.com', 'phoneNumber': '34345435345'}
+{'name': 'Yohan', 'lastname': 'Angulo', 'email': 'anguloyohan98@gmail.com', 'phoneNumber': '04129613339'}
